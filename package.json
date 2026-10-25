@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://miguelpinedag.github.io/LABC",
+  "homepage": "https://factory-tech-col.github.io/LABC",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
